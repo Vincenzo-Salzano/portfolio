@@ -1,0 +1,89 @@
+/*
+Colors
+Blu principale: #0B2447 (un blu intenso e professionale)
+Blu chiaro: #19376D (un blu più chiaro per creare contrasto)
+Bianco: #ffffff (per un aspetto pulito e professionale)
+Grigio 1: #576CBC (un grigio chiaro per sfondi o dettagli)
+Grigio 2:#d1d8db
+Giallo 1: #D5A021
+Giallo + :#FFC914
+Verde 1: #2A9134
+*/
+/*
+Font CSS Rules
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+.hero-color{
+    background-color: #19376D;
+}
+
+.hero-text-white{
+    color: #ffffff;
+}
+
+.hero-text{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+}
+
+p{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+}
+
+.rounded-image{
+    border-radius: 50%;
+}
+
+#resume{
+    border-radius: 10%;
+}
+
+.features-color{
+    background-color:#d1d8db ;
+    
+}
+
+.btn-dark{
+    background-color:#1f618d ;
+}
+
+
+.nav-color{
+    background-color:#19376D ;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #2A9134;
+    color: white;
+}
+
+.nav-pills .nav-link{
+    color: white;
+}
+
+.text-body-primary{
+    color: white;
+}
+
+.skills{
+    background-color:#D5A021;
+}
+
+
+
+
+    
