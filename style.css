@@ -101,6 +101,12 @@ p{
     }
 }
 
+@media (max-width:576px){
+   #resume-center{
+    justify-content: center;
+   }
+}
+
 
 
     
