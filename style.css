@@ -83,6 +83,18 @@ p{
     background-color:#D5A021;
 }
 
+@media (min-width:576px){
+    #seo{
+        height: 400px;
+    }
+}
+
+@media (min-width:319px) and (max-width:576px){
+    #seo{
+        height: 300px;
+    }
+}
+
 
 
 
